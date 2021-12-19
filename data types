@@ -1,0 +1,27 @@
+public class variables {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+byte i=2;
+System.out.println(i);
+int j=4500;
+System.out.println(j);
+short k=5000;
+System.out.println(k);
+long n=45646323;
+System.out.println(n);
+float h=1.1f;
+System.out.println(h);
+double d=11235.2586;
+System.out.println(d);
+char u='a';
+System.out.println(u);
+boolean b=true;
+System.out.println(b);
+
+	}
+
+}
